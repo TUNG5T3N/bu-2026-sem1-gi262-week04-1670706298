@@ -33,7 +33,8 @@ namespace Assignment
 
         public void LCT04_SyntaxDictionary()
         {
-            Dictionary<string, int> dic = new Dictionary<string, int>();
+            throw new System.NotImplementedException();
+            /*Dictionary<string, int> dic = new Dictionary<string, int>();
             var inv2 = new Dictionary<string, int>();
 
             // "Potion": 1
@@ -81,7 +82,7 @@ namespace Assignment
                 string key = pair.Key;
                 int value = pair.Value;
                 Debug.Log($"Key: {key} value: {value}");
-            }
+            }*/
         }
 
         #endregion
